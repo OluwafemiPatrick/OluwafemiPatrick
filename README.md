@@ -4,8 +4,8 @@
 
 # Oluwafemi Patrick O.
 
-## I am a Mobile App Developer and Full-stack Engineer 
-## I help companies and businesses bring their software solutions to life.
+#### I am a Mobile App Developer and Full-stack Engineer 
+#### I help companies and businesses bring their software solutions to life.
 
 
 
