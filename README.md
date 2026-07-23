@@ -25,9 +25,4 @@ I care about systems that remain understandable and safe under real operational 
 
 My earlier work also includes mobile and cross-platform product delivery; today my focus is backend, cloud-platform, and AI-enabled systems engineering.
 
-## Elsewhere
-
-- LinkedIn: [Oluwafemi Patrick](https://www.linkedin.com/in/oluwafemi-patrick/)
-- GitHub: [@OluwafemiPatrick](https://github.com/OluwafemiPatrick)
-
 _Interested in remote backend and cloud-platform engineering engagements._
