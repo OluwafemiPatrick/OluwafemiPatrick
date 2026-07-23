@@ -1,28 +1,33 @@
-## Hi there 👋
+# Oluwafemi Patrick
 
-My name is
+**Senior Software Engineer | Backend, Cloud Platforms & Applied AI**  
+Python · FastAPI · .NET · SQL · AWS · Docker · Secure, observable systems
 
-# Oluwafemi Patrick O.
+I am a product-minded senior software engineer with experience building backend services, cloud-connected systems, data platforms, and applied AI features. I work across reliable integrations, transactional workflows, and production delivery.
 
-#### I am a Mobile App Developer and Full-stack Engineer 
-#### I help companies and businesses bring their software solutions to life.
+## What I work on
 
+- Backend services and distributed workflows with Python, FastAPI, Java, REST, and OpenAPI
+- Data-intensive systems using PostgreSQL, SQL Server, Redis, SQLAlchemy, and MongoDB
+- Cloud and delivery practices with AWS, Docker, GitHub Actions, Linux, and CI/CD
 
+## Selected public work
 
-<!---
-**OluwafemiPatrick/OluwafemiPatrick** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- **[LedgerFlow](https://github.com/OluwafemiPatrick/LedgerFlow)** — an API-first transactional workflow service focused on idempotency, authenticated webhooks, reconciliation, auditability, and operational visibility.  
+  _In active development._
 
-Here are some ideas to get you started:
+- **[PolicyGround](https://github.com/OluwafemiPatrick/PolicyGround)** — a tenant-isolated knowledge API exploring dependable retrieval, citations, evaluation, and access control.  
+  _In active development._
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Engineering approach
 
+I care about systems that remain understandable and safe under real operational conditions: explicit contracts, useful tests, measured observability, secure defaults, and documented trade-offs.
 
+My earlier work also includes mobile and cross-platform product delivery; today my focus is backend, cloud-platform, and AI-enabled systems engineering.
 
+## Elsewhere
+
+- LinkedIn: [Oluwafemi Patrick](https://www.linkedin.com/in/oluwafemi-patrick/)
+- GitHub: [@OluwafemiPatrick](https://github.com/OluwafemiPatrick)
+
+_Interested in remote backend and cloud-platform engineering engagements._
