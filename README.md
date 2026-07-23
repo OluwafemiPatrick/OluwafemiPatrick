@@ -1,7 +1,6 @@
 # Oluwafemi Patrick
 
 **Senior Software Engineer | Backend, Cloud Platforms & Applied AI**  
-Python · FastAPI · .NET · SQL · AWS · Docker · Secure, observable systems
 
 I am a product-minded senior software engineer with experience building backend services, cloud-connected systems, data platforms, and applied AI features. I work across reliable integrations, transactional workflows, and production delivery.
 
